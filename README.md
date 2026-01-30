@@ -50,6 +50,6 @@ I use it as a place to **design and build AI-native tools** that solve **real bu
 
 ## 📫 Presence
 - GitHub: https://github.com/SristiNative  
-- Vercel: Coming soon  
+- Vercel:  
 
 > *Build fast. Design for safety first.*
